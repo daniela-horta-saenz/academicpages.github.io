@@ -4,7 +4,7 @@ title: " "
 permalink: /research/
 author_profile: true
 ---
-  
+{% include base_path %} 
 <h1>Working papers</h1>
  
 <details>
@@ -21,5 +21,4 @@ author_profile: true
 
 
 
-<h1>Work in progress</h1>
 
