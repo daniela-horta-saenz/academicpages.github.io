@@ -16,7 +16,7 @@ In September, I will join Sciences Po Paris as a  Teaching Fellow (Attaché Temp
 
 My research interests lie at the intersection of Development Economics, Political Economy, and Conflict. I am particularly interested in post-apartheid South Africa. 
 
-You can contact me at daniela.horta-saenz@univ-amu.fr. 
+You can contact me at <daniela.horta-saenz@univ-amu.fr>. 
 
 
 
