@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniela Horta Sáenz"
+title                    : "Daniela Horta Saenz"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Daniela Horta Sáenz"
-  avatar           : "profile.png"
+  avatar           : "daniela_horta_saenz_pic.png"
   bio              : "PhD Student at Aix-Marseille School of Economics"
   location         : "Paris, France"
-  employer         : "https://www.amse-aixmarseille.fr/en"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pjSsZukAAAAJ&hl=en"
   email            :
