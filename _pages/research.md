@@ -10,6 +10,7 @@ author_profile: true
 
 Working papers
 ======
+  
 <details>
 <summary><strong><h2>Turning worries into cognitive performance: Results from an online experiment during Covid<h2></strong></summary>
 
@@ -20,3 +21,10 @@ Working papers
 Media coverage: La Marseillaise<br>
 Funded by <a href="https://anr.fr/Projet-ANR-21-CO14-0009">ANR</a> and <a href="https://www.amse-aixmarseille.fr/en">AMSE</a>
 </details>
+
+
+
+
+Work in progress
+======
+
