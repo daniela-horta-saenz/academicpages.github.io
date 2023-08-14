@@ -6,7 +6,6 @@ author_profile: true
 ---
 {% include base_path %} 
 <h1>Working papers</h1>
- 
 <details>
 <summary>
   <h2>
@@ -14,9 +13,7 @@ author_profile: true
  </h2>   
 </summary>
 
-<p><i>Joint with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a>.</i><p>
-
-  
+<p><i>Joint with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a>.</i><p> 
 </details>
 
 
