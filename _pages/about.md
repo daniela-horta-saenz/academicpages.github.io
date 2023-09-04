@@ -14,7 +14,7 @@ Welcome to my werbsite!
 </p> 
 
 <p style="text-align: justify">
-I am a PhD candidate at [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en), supervised by [Timothée Demont](https://sites.google.com/site/timotheedemont/home) and [Tanguy van Ypersele](https://www.amse-aixmarseille.fr/fr/membres/van-ypersele). I visited the University of Chicago in the Spring of 2023, sponsored by Prof. [Oeindrila Dube](http://odube.net). 
+I am a PhD candidate at <a href="https://www.amse-aixmarseille.fr/en">Aix-Marseille School of Economics</a> , supervised by <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://www.amse-aixmarseille.fr/fr/membres/van-ypersele">Tanguy van Ypersele</a>. I visited the University of Chicago in the Spring of 2023, sponsored by Prof. <a href="http://odube.net">Oeindrila Dube</a>.
 </p>
  
 <p style="text-align: justify">
@@ -26,7 +26,7 @@ My research interests lie at the intersection of development conomics, political
 </p>
  
 <p style="text-align: justify">
-You can contact me at [daniela.horta-saenz@univ-amu.fr](mailto:daniela.horta-saenz@univ-amu.fr).
+You can contact me at <a href = "mailto: daniela.horta-saenz@univ-amu.fr">daniela.horta-saenz@univ-amu.fr</a> 
 </p>
  
 
