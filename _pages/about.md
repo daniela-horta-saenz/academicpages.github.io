@@ -26,7 +26,7 @@ My research interests lie at the intersection of development conomics, political
 </p>
  
 <p style="text-align: justify">
-You can contact me at <a href = "mailto: daniela.horta-saenz@univ-amu.fr">daniela.horta-saenz@univ-amu.fr</a> 
+You can contact me at <a href = "mailto: daniela.horta-saenz@univ-amu.fr">daniela.horta-saenz@univ-amu.fr.</a> 
 </p>
  
 
