@@ -16,7 +16,7 @@ I am a PhD candidate at <a href="https://www.amse-aixmarseille.fr/en">Aix-Marsei
 </p>
  
 <p style="text-align: justify">
-In September, I will join Sciences Po Paris as a  Teaching Fellow (Attaché Temporaire d'Enseignement et de Recherche).
+In September, I will join Sciences Po as a  Teaching Fellow (Attaché Temporaire d'Enseignement et de Recherche).
 </p>
 
 <p style="text-align: justify">
