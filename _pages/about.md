@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<font size="-0.5">
 Welcome to my werbsite!
 
 
@@ -25,7 +25,7 @@ My research interests lie at the intersection of <b> development economics</b>, 
 </p>
   
 You can contact me at <a href = "mailto: daniela.horta-saenz@univ-amu.fr">daniela.horta-saenz@univ-amu.fr.</a> 
-
+</font>
  
 
 
