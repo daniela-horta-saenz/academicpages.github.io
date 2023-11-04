@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 <font size="-0.5">
+<p style="text-align: justify">  
 Welcome to my werbsite!
-
-
+</p>
+  
 <p style="text-align: justify">
 I am a PhD candidate at <b> Aix-Marseille School of Economics</b>  and a Teaching Fellow (ATER) at <b> Sciences Po Paris</b>.
 </p>
