@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %} 
 <h1>Working papers</h1>
 
-<h2><font size="-0.5"><strong><a href="https://amu.hal.science/hal-03953178">Turning worries into cognitive performance: Results from an online experiment during Covid</a></strong></font></h2>   
+<h2><font size="-0.3"><strong><a href="https://amu.hal.science/hal-03953178">Turning worries into cognitive performance: Results from an online experiment during Covid</a></strong></font></h2>   
 
 <i><font size="-0.5">Joint with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a>.</font></i>
 
@@ -21,7 +21,7 @@ author_profile: true
 
 <h1>Work in progress</h1>
 
-<h2><font size="-0.5"><strong><a href="https://www.wider.unu.edu/publication/nation-building-post-conflict-settings">Nation-building in post-conflict settings: 	Evidence from South Africa  </a></strong></font></h2> 
+<h2><font size="-0.3"><strong><a href="https://www.wider.unu.edu/publication/nation-building-post-conflict-settings">Nation-building in post-conflict settings: 	Evidence from South Africa  </a></strong></font></h2> 
 
 <p><i><font size="-0.5">Joint with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</font></i></p>
 
@@ -31,7 +31,7 @@ author_profile: true
   
 - <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
-<h2><font size="-0.5"><strong>Conflict and Educational Mobility: Evidence from Colombia</strong></font></h2>
+<h2><font size="-0.3"><strong>Conflict and Educational Mobility: Evidence from Colombia</strong></font></h2>
 
 <details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
 
@@ -39,10 +39,10 @@ author_profile: true
 </p> </details>
 - <i><font size="-1">Working paper upon request.</font></i>
 
-<h2><font size="-0.5"><strong>Unintended Effects of Forced Eradication of Illicit Crops: Evidence from Colombia</strong></font></h2>
+<h2><font size="-0.3"><strong>Unintended Effects of Forced Eradication of Illicit Crops: Evidence from Colombia</strong></font></h2>
 <p><i><font size="-0.5"> Joint with Anderson Tami-Patiño.</font></i><p>
   
-<h2><font size="-0.5"><strong>Sexual Violence in South Africa: Institutional and Grassroots Solutions</strong></font></h2>
+<h2><font size="-0.3"><strong>Sexual Violence in South Africa: Institutional and Grassroots Solutions</strong></font></h2>
 <p><i><font size="-0.5">Joint with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. </font></i></p>
 
 
