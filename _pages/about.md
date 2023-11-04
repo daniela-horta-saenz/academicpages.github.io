@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: <font size="-0.5">"About me"</font>
+title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<br>
 <font size="-0.5">
 <p style="text-align: justify">  
 Welcome to my werbsite!
