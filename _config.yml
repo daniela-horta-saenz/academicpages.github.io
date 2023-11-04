@@ -86,7 +86,7 @@ author:
   location         : "Paris, France"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pjSsZukAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=pjSsZukAAAAJ&hl=en"
   email            : "daniela.horta-saenz@univ-amu.fr"
   researchgate     :  
   uri              :
