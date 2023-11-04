@@ -6,11 +6,8 @@ author_profile: true
 ---
 {% include base_path %} 
 <h1><font size="-0.5">Working papers</font></h1>
-
 <h2><font size="-0.5"><strong><a href="https://amu.hal.science/hal-03953178">Turning worries into cognitive performance: Results from an online experiment during Covid</a></strong></font></h2>   
-
 <i><font size="-0.5">Joint with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a>.</font></i>
-
 <details><summary><strong> <font size="-0.5"> Abstract </font> </strong></summary><p style="text-align: justify">
 <font size="-1">Worrisome topics, such as climate change, economic crises, or the Covid-19 pandemic, are increasingly present and pervasive due to digital media and social networks. Do such worries affect cognitive performance? The effect of a distressing topic might be very different depending on whether people have the scope and means to cope with the consequences. It can also differ by how performance is rewarded, for instance, if there is a goal that people can focus on. In an online experiment during the Covid-19 pandemic, we test how the cognitive performance of university students responds to topics discussing (i) current mental health issues related to social restrictions or (ii) future labor market uncertainties linked to the economic contraction. Moreover, we study how the response is affected by a performance goal by conditioning payout on reaching a minimum level. We find that the labor market topic increases cognitive performance when performance is motivated by a goal. Conversely, there is no such effect after the mental health topic. We even find a weak negative effect among those mentally vulnerable when payout is not based on reaching a goal. The positive effect is driven by students with larger financial and social resources, pointing at an inequality-widening mechanism.</font>
 </p> </details>
@@ -18,11 +15,8 @@ author_profile: true
 - <font size="-1">Media coverage: La Marseillaise.</font> 
 - <font size="-1">Funded by <a href="https://anr.fr/Projet-ANR-21-CO14-0009">ANR</a> and <a href="https://www.amse-aixmarseille.fr/en">AMSE</a>.</font>
 
-<br>
-
 
 <h1><font size="-0.5">Work in progress</font></h1>
-
 <h2><font size="-0.5"><strong><a href="https://www.wider.unu.edu/publication/nation-building-post-conflict-settings">Nation-building in post-conflict settings: 	Evidence from South Africa  </a></strong></font></h2> 
 <p><i><font size="-0.5">Joint with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</font></i></p>
 
@@ -32,14 +26,12 @@ author_profile: true
   
 - <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
-<h2><strong>Conflict and Educational Mobility: Evidence from Colombia</strong></h2>
-
+<h2><font size="-0.5"><strong>Conflict and Educational Mobility: Evidence from Colombia</strong></font></h2>
 <details><summary><strong> <font size="-0.5"> Abstract </font> </strong></summary><p style="text-align: justify">
 <font size="-1">Does conflict impact socioeconomic mobility? This paper examines the extent to which individuals’ exposure to conflict affects intergenerational mobility in education attainment in Colombia. Exploiting exogenous variation in conflict intensity caused by the distance to the nearest military base and US military assistance. I find that the armed conflict reduces the transmission of parents’ educational outcomes on children’s outcomes. An effect driven by the breakdown in transmission in highly educated families. This disruption occurs mainly due to conflict exposure in early childhood and exposure to conflict-related displacement and sexual violence. Notably, weakening the parent-child link is translated into a general increase in downward mobility and a decrease in upward mobility. Destruction of educational resources and a decrease in children’s aspirations are the likely mechanisms for the observed effect.</font>
 </p> </details>
 
 - <i><font size="-1">Working paper upon request.</font></i>
-
 <h2><font size="-0.5"><strong>Unintended Effects of Forced Eradication of Illicit Crops: Evidence from Colombia</strong></font></h2>
 <p><i><font size="-0.5"> Joint with Anderson Tami-Patiño.</font></i><p>
   
