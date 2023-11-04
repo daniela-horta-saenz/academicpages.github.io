@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
+
 <font size="-0.5">
 <p style="text-align: justify">  
 Welcome to my werbsite!
