@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 {% include base_path %} 
-<h1>Working papers</h1>
+<h2>Working papers</h2>
 
 <h2><font size="-0.3"><strong><a href="https://amu.hal.science/hal-03953178">Turning worries into cognitive performance: Results from an online experiment during Covid</a></strong></font></h2>  
 
@@ -19,7 +19,7 @@ author_profile: true
 - <font size="-1">Funded by <a href="https://anr.fr/Projet-ANR-21-CO14-0009">ANR</a> and <a href="https://www.amse-aixmarseille.fr/en">AMSE</a>.</font>
 
 
-<h1>Work in progress</h1>
+<h2>Work in progress</h2>
 
 <h2><font size="-0.3"><strong><a href="https://www.wider.unu.edu/publication/nation-building-post-conflict-settings">Nation-building in post-conflict settings: 	Evidence from South Africa  </a></strong></font></h2> 
 
@@ -31,7 +31,7 @@ author_profile: true
   
 - <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
-<h2><font size="-0.3"><strong>Unintended Effects of Forced Eradication of Illicit Crops: Evidence from Colombia</strong></font></h2>
+<h2><font size="-0.3"><strong>Collateral damage: The impact of forced eradication of illicit crops on human capital</strong></font></h2>
 <p><i><font size="-0.5"> Joint with Anderson Tami-Patiño.</font></i><p>
  <details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
 
