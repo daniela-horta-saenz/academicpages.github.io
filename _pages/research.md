@@ -7,9 +7,9 @@ author_profile: true
 {% include base_path %} 
 <h1>Working papers</h1>
 
-<h2><font size="-0.3"><strong><a href="https://amu.hal.science/hal-03953178">Turning worries into cognitive performance: Results from an online experiment during Covid</a></strong></font></h2>   
+<h2><font size="-0.3"><strong><a href="https://amu.hal.science/hal-03953178">Turning worries into cognitive performance: Results from an online experiment during Covid</a></strong></font></h2>  
 
-<i><font size="-0.5">Joint with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a>.</font></i>
+<i><font size="-0.5">Joint with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a>.</font></i> [R&R]
 
 <details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
 <font size="-1">Worrisome topics, such as climate change, economic crises, or the Covid-19 pandemic, are increasingly present and pervasive due to digital media and social networks. Do such worries affect cognitive performance? The effect of a distressing topic might be very different depending on whether people have the scope and means to cope with the consequences. It can also differ by how performance is rewarded, for instance, if there is a goal that people can focus on. In an online experiment during the Covid-19 pandemic, we test how the cognitive performance of university students responds to topics discussing (i) current mental health issues related to social restrictions or (ii) future labor market uncertainties linked to the economic contraction. Moreover, we study how the response is affected by a performance goal by conditioning payout on reaching a minimum level. We find that the labor market topic increases cognitive performance when performance is motivated by a goal. Conversely, there is no such effect after the mental health topic. We even find a weak negative effect among those mentally vulnerable when payout is not based on reaching a goal. The positive effect is driven by students with larger financial and social resources, pointing at an inequality-widening mechanism.</font>
@@ -31,6 +31,15 @@ author_profile: true
   
 - <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
+<h2><font size="-0.3"><strong>Unintended Effects of Forced Eradication of Illicit Crops: Evidence from Colombia</strong></font></h2>
+<p><i><font size="-0.5"> Joint with Anderson Tami-Patiño.</font></i><p>
+ <details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
+
+<font size="-1">The role of eradication policies in decreasing drug trade, insecurity, and ultimately fostering development remains largely debated. This paper examines the unintended consequences of aerial  fumigation of coca on human capital accumulation and its medium-term socioeconomic impact in Colombia. Employing a spatial regression discontinuity design and utilizing newly digitized data on the exact areas subjected to aerial spraying, we find that eradication increases dropout and failure rates in the short term. A key mechanism is the negative income shock experienced by households. Furthermore, we document that even after the ban on aerial spraying in 2015, villages exposed to eradication exhibit worse socioeconomic outcomes, including lower schooling, higher child labor, increased early marriage, and deteriorating living conditions.</font>
+</p> </details>
+
+
+
 <h2><font size="-0.3"><strong>Conflict and Educational Mobility: Evidence from Colombia</strong></font></h2>
 
 <details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
@@ -39,9 +48,7 @@ author_profile: true
 </p> </details>
 - <i><font size="-1">Working paper upon request.</font></i>
 
-<h2><font size="-0.3"><strong>Unintended Effects of Forced Eradication of Illicit Crops: Evidence from Colombia</strong></font></h2>
-<p><i><font size="-0.5"> Joint with Anderson Tami-Patiño.</font></i><p>
-  
+
 <h2><font size="-0.3"><strong>Sexual Violence in South Africa: Institutional and Grassroots Solutions</strong></font></h2>
 <p><i><font size="-0.5">Joint with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. </font></i></p>
 
