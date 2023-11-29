@@ -31,7 +31,8 @@ author_profile: true
   
 - <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
-<h2><font size="-0.3"><strong>Collateral damage: The impact of forced eradication of illicit crops on human capital</strong></font></h2>
+<h2><font size="-0.3"><strong><a href="https://www.dropbox.com/scl/fi/a0x6b58i64yjb10hetx6m/Eradication_Education_Horta_Tami.pdf?rlkey=15bn12y5fqlps3krogsbnrgvc&dl=0">Collateral damage: The impact of forced eradication of illicit crops on human capital</a></strong></font></h2> 
+
 <p><i><font size="-0.5"> Joint with Anderson Tami-Patiño.</font></i><p>
  <details><summary><strong> <font size="-1"> Abstract </font> </strong></summary><p style="text-align: justify">
 
