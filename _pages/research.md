@@ -51,9 +51,9 @@ author_profile: true
 
 
 <h2><font size="-0.3"><strong>Sexual Violence in South Africa: Institutional and Grassroots Solutions</strong></font></h2>
-<p><i><font size="-0.5">Joint with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. </font></i></p>
+<p><i><font size="-0.5">Joint with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Exploratory Field Work Done] </font></i></p>
 
-
+- <font size="-1">Funded by the DEC and BFI University of Chicago.</font>
 
 
 
