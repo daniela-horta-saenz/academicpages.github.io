@@ -48,18 +48,15 @@ author_profile: true
 <font size="-1">Does conflict impact socioeconomic mobility? This paper examines the extent to which individuals’ exposure to conflict affects intergenerational mobility in education attainment in Colombia. Exploiting exogenous variation in conflict intensity caused by the distance to the nearest military base and US military assistance. I find that the armed conflict reduces the transmission of parents’ educational outcomes on children’s outcomes. An effect driven by the breakdown in transmission in highly educated families. This disruption occurs mainly due to conflict exposure in early childhood and exposure to conflict-related displacement and sexual violence. Notably, weakening the parent-child link is translated into a general increase in downward mobility and a decrease in upward mobility. Destruction of educational resources and a decrease in children’s aspirations are the likely mechanisms for the observed effect.</font>
 </p> </details>
 
+
 - <i><font size="-1">Working paper upon request.</font></i>
 
 
 <h2><font size="-0.3"><strong>Sexual Violence in South Africa: Institutional and Grassroots Solutions</strong></font></h2>
-<p><i><font size="-0.5">Joint with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Exploratory Field Work Done] </font></i></p>
+<p><i><font size="-0.5">Joint with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Exploratory Field Work Done] </font></i>
+</p>
 
-- <font size="-1">Funded by the DEC and BFI University of Chicago.</font>
-
-
-
-
-
+-<font size="-1">Funded by the DEC and BFI University of Chicago.</font>
 
 
 
