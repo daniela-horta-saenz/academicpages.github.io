@@ -14,12 +14,9 @@ Welcome to my werbsite!
 </p>
   
 <p style="text-align: justify">
-I am a PhD candidate at <b> Aix-Marseille School of Economics</b>  and a Teaching Fellow (ATER) at <b> Sciences Po Paris</b>.
+I am a PhD candidate at <b> Aix-Marseille School of Economics</b>  and a Teaching Fellow (ATER) at <b> Sciences Po Paris</b>. I visited the <b> University of Chicago</b>  in the Spring of 2023, sponsored by Prof. Oeindrila Dube. 
 </p>
 
-<p style="text-align: justify">
-I visited the <b> University of Chicago</b>  in the Spring of 2023, sponsored by Prof. Oeindrila Dube. I am currently visiting the <b> University of Cape Town</b>. 
-</p>
 
 <p style="text-align: justify">
   
