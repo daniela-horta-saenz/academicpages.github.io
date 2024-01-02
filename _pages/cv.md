@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here](https://daniela-horta-saenz.github.io/files/DHS_CV.pdf)
+
+<embed src="https://daniela-horta-saenz.github.io/files/DHS_CV.pdf" width="100%" height="850px"/>
