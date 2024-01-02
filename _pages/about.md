@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: images/SA1.jpeg
+  caption: "Cape Town, South Africa."
 ---
 
 <font size="-0.5">
