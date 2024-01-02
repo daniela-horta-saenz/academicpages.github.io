@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: images/southafrica_ct.jpg
+  image: /images/southafrica_ct.jpg
   caption: "Cape Town, South Africa."
 ---
 
