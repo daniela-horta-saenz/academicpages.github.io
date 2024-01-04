@@ -10,7 +10,7 @@ redirect_from:
 
 <font size="-0.5">
 <p style="text-align: justify">  
-Welcome to my werbsite!
+Welcome to my website!
 </p>
   
 <p style="text-align: justify">
