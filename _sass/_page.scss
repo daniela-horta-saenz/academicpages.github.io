@@ -6,8 +6,8 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -17,10 +17,10 @@
 }
 
 .page {
-  @include breakpoint($x-large) {
-    @include span(11 of 12);
-    @include prefix(1 of 12);
-    @include suffix(1 of 12);
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
@@ -49,28 +49,14 @@
 }
 
 .page__content {
-   
-  h1 {
-    margin-bottom: 1.5em;
-  }   
 
-  h4 {
-    margin-bottom: 1.5em;
-  }   
-   
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
-    margin-top: 1em;
-    font-size: 1.1em;
   }
 
-  p {
-     font-size: 0.9em;
-  }
-   
-  li, dl {
-    font-size: $type-size-6;
+  p, li, dl {
+    font-size: 1em;
   }
 
   /* paragraph indents */
@@ -87,7 +73,7 @@
   }
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -98,19 +84,16 @@
     }
   }
 
-  li, dl {
-     margin-top: -1.4em;
-     margin-bottom: 2em;
-  }
-   
   dt {
-    font-family: $global-font-family;
+    margin-top: 1em;
+    font-family: $sans-serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $global-font-family;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
   }
 
   .small {
@@ -245,7 +228,7 @@
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
-  font-family: $global-font-family;
+  font-family: $sans-serif;
   font-size: $type-size-6;
 
   p {
