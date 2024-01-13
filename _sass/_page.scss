@@ -19,7 +19,7 @@
 .page {
   @include breakpoint($x-large) {
     @include span(11 of 12);
-    @include prefix(0 of 12);
+    @include prefix(1 of 12);
     @include suffix(0 of 12);
   }
 
@@ -59,7 +59,7 @@
   }   
    
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0em;
     border-bottom: 1px solid $border-color;
     margin-top: 1em;
     font-size: 1.1em;
