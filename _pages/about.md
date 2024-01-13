@@ -8,27 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  .img-circle {
-    border-radius: 50%;
-    width: 150px; /* Adjust the width to your preference */
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .contact-icons {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .contact-icon {
-    margin-right: 10px;
-  }
-</style>
 
-<img class="img-responsive img-circle" src="/images/daniela_horta_saenz_pic.png" width="310">
-
-
+<img class="img-fluid img-profile rounded-circle mx-auto mb-2" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic.png" width="310">
 
 <font size="-0.5">
 <p style="text-align: justify">  
@@ -46,7 +27,6 @@ My research interests lie at the intersection of <b> development economics</b>, 
 </p>
   
 You can contact me at <a href = "mailto: daniela.horta-saenz@univ-amu.fr">daniela.horta-saenz@univ-amu.fr.</a> 
-
 </font>
  
 
