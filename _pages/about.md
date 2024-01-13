@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: ""
+title: "Daniela Horta Saenz"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic.png" width="310"> 
 
 <font size="-0.5">
 <p style="text-align: justify">  
