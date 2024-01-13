@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic copy.png" width="310">
+<img class="img-responsive" style="float: left; margin: 5px 10px 10px 5px;" src="/images/daniela_horta_saenz_pic copy.png" width="310">
 
 <font size="-0.7">
 <p style="text-align: justify">  
