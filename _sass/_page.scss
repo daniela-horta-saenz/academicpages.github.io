@@ -2,18 +2,19 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+article.page {
+    float: left;
+    width: 100%;
+}
+
 #main {
+  @include container;
   @include clearfix;
-  margin-left: auto;
   margin-top: 2em;
-  margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
-  -webkit-animation: $intro-transition;
-          animation: $intro-transition;
-  max-width: 100%;
-  -webkit-animation-delay: 0.35s;
-          animation-delay: 0.35s;
+  animation: intro 0.3s both;
+  animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -21,34 +22,19 @@
 }
 
 .page {
-
   @include breakpoint($large) {
-    float: right;
-    width: 100%;
-    padding-right: $right-sidebar-width-narrow;
-  }
-
-  @include breakpoint($x-large) {
-    width: 100%;
-    padding-right: $right-sidebar-width;
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
-    float: left;
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
-    clear: both;
+    @include full();
 
     .page__content,
     .page__meta,
     .page__share {
-      position: relative;
-      float: left;
-      margin-left: 0;
-      margin-right: 0;
-      width: 100%;
-      clear: both;
+      @include full();
     }
   }
 }
@@ -91,7 +77,8 @@
     }
   }
 
-  a:not(.btn) {
+  a {
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -129,10 +116,8 @@
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
-  -webkit-animation: $intro-transition;
-          animation: $intro-transition;
-  -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
+  animation: intro 0.3s both;
+  animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
@@ -142,10 +127,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-animation: $intro-transition;
-            animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-            animation-delay: 0.25s;
+    animation: intro 0.3s both;
+    animation-delay: 0.25s;
 
     a {
       color: #fff;
@@ -201,7 +184,7 @@
   text-align: right;
   z-index: 5;
   opacity: 0.5;
-  border-radius: $border-radius 0 0 0;
+  border-radius: $border-radius 0 $border-radius 0;
 
   @include breakpoint($large) {
     padding: 5px 10px;
@@ -249,7 +232,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: $muted-text-color;
+  color: mix(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 
@@ -289,7 +272,7 @@
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid mix(#000, $border-color, 25%);
+  border: 1px solid $light-gray;
   border-radius: $border-radius;
 
   &:hover {
@@ -304,11 +287,7 @@
    ========================================================================== */
 
 .page__comments {
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
-  clear: both;
+  @include full();
 }
 
 .page__comments-title {
@@ -321,7 +300,8 @@
 }
 
 .page__comments-form {
-  -webkit-transition: $global-transition;
+  padding: 1em;
+  background: $lighter-gray;
   transition: $global-transition;
 
   &.disabled {
@@ -403,19 +383,14 @@
    ========================================================================== */
 
 .page__related {
-  @include clearfix();
-  float: left;
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
+  @include clearfix();
+  float: left;
 
   @include breakpoint($large) {
-    float: right;
-    width: 100%;
-  }
-
-  @include breakpoint($x-large) {
-    width: 100%;
+    @include pre(2.5 of 12);
   }
 
   a {
