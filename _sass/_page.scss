@@ -6,8 +6,8 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -59,7 +59,7 @@
   }   
    
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0em;
     border-bottom: 1px solid $border-color;
     margin-top: 1em;
     font-size: 1.1em;
@@ -100,7 +100,7 @@
 
   li, dl {
      margin-top: -1.4em;
-     margin-bottom: 2em;
+     margin-bottom: 1em;
   }
    
   dt {
