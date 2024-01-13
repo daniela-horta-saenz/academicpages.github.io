@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic.png" width="310"> 
+<img class="img-responsive img-circle" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic.png" width="310">
+
 
 <font size="-0.5">
 <p style="text-align: justify">  
@@ -26,6 +27,7 @@ My research interests lie at the intersection of <b> development economics</b>, 
 </p>
   
 You can contact me at <a href = "mailto: daniela.horta-saenz@univ-amu.fr">daniela.horta-saenz@univ-amu.fr.</a> 
+
 </font>
  
 
