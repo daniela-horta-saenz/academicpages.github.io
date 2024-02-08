@@ -21,8 +21,8 @@ Publications
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Worrisome topics, such as climate change, economic crises, or pandemics including the Covid-19, are increasingly present and pervasive due to digital media and social networks. Do worries triggered by such topics affect the cognitive capacities of young adults? In an online experiment during the Covid-19 pandemic (N=1503), we test how the cognitive performance of university students responds when exposed to topics discussing (i) current adverse mental health consequences of social restrictions or (ii) future labor market hardships linked to the economic contraction. Moreover, we study how such a response is affected by a performance goal. We find that the labor market topic increases cognitive performance when it is motivated by a goal, consistent with a ‘tunneling effect’ of scarcity or a positive stress effect. However, we show that the positive reaction is mainly concentrated among students with larger financial and social resources, pointing to an inequality-widening mechanism. Conversely, we find limited support for a negative stress effect or a ‘cognitive load effect’ of scarcity, as the mental health topic has a negative but insignificant average effect on cognitive performance. Yet, there is a negative response among psychologically vulnerable individuals when the payout is not conditioned on reaching a goal.</font>
 </p> 
 
-  * <font size="-0.5">Media coverage: La Marseillaise.</font> 
-  * <font size="-0.5">Funded by <a href="https://anr.fr/Projet-ANR-21-CO14-0009">ANR</a> and <a href="https://www.amse-aixmarseille.fr/en">AMSE</a>.</font>
+  * <font size="-1">Media coverage: La Marseillaise.</font> 
+  * <font size="-1">Funded by <a href="https://anr.fr/Projet-ANR-21-CO14-0009">ANR</a> and <a href="https://www.amse-aixmarseille.fr/en">AMSE</a>.</font>
 
 <br>
 
@@ -38,7 +38,7 @@ Work in progress
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do states rebuild nations after a major conflict? Truth and Reconciliation Commissions (TRCs) have emerged as one of the most common interventions to achieve this objective. Despite their popularity, little is known about their efficacy to foster reconciliation and nation building. We fill this gap by studying the seminal TRC established in South Africa after the end of the Apartheid. To measure exposure to TRC across South African municipalities, we leverage quasi-random variation in media coverage of the TRC message. South African municipalities with higher historical exposure to TRC on media have lower levels of violence today. This effect is driven by improved nation building and higher trust towards post-Apartheid institutions. Exploiting daily variation in TRC hearings and mediatic exposure in the short run, we bolster our interpretation that our long-run results are forged in the years of TRC activity. The same evidence suggests that our results are driven by the coverage of TRC on media as opposed to generic media exposure.</font>
 </p> 
 
-  * <font size="-0.5">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
+  * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
 <br>
 
@@ -61,7 +61,7 @@ Work in progress
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Does conflict impact socioeconomic mobility? This paper examines the extent to which individuals’ exposure to conflict affects intergenerational mobility in education attainment in Colombia. Exploiting exogenous variation in conflict intensity caused by the distance to the nearest military base and US military assistance. I find that the armed conflict reduces the transmission of parents’ educational outcomes on children’s outcomes. An effect driven by the breakdown in transmission in highly educated families. This disruption occurs mainly due to conflict exposure in early childhood and exposure to conflict-related displacement and sexual violence. Notably, weakening the parent-child link is translated into a general increase in downward mobility and a decrease in upward mobility. Destruction of educational resources and a decrease in children’s aspirations are the likely mechanisms for the observed effect.</font>
 </p> 
  
-  * <font size="-0.5">Working paper upon request.</font>
+  * <font size="-1">Working paper upon request.</font>
 
 
 <br>
@@ -73,7 +73,7 @@ Work in progress
   
 <i><font size="-0.5"> with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Exploratory Field Work Done] </font></i>
 
-  * <font size="-0.5">Funded by the BFI University of Chicago.</font>
+  * <font size="-1">Funded by the BFI University of Chicago.</font>
 
 
 
