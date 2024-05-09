@@ -14,9 +14,9 @@ redirect_from:
 Work in progress
 -----
 
-**"Collateral damage: The impact of forced eradication of illicit crops on human capital"**
-
 <br>
+
+**"Collateral damage: The impact of forced eradication of illicit crops on human capital"**
 
 <i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>]
 
