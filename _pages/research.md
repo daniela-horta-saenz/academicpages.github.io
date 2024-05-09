@@ -15,13 +15,14 @@ Work in progress
 -----
 
 **"Collateral damage: The impact of forced eradication of illicit crops on human capital"**
-  
+
+<br>
+
 <i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>]
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The role of eradication policies in decreasing drug trade, insecurity, and ultimately fostering development remains largely debated. This paper examines the unintended consequences of aerial  fumigation of coca on human capital accumulation and its medium-term socioeconomic impact in Colombia. Employing a spatial regression discontinuity design and utilizing newly digitized data on the exact areas subjected to aerial spraying, we find that eradication increases dropout and failure rates in the short term. A key mechanism is the negative income shock experienced by households. Furthermore, we document that even after the ban on aerial spraying in 2015, villages exposed to eradication exhibit worse socioeconomic outcomes, including lower schooling, higher child labor, increased early marriage, and deteriorating living conditions.</font>
 </p> 
 
-<br>
 
 -----
 <br>
